@@ -5,8 +5,9 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>tictactoe</name>
   <description>tictactoe</description>
-</project>
-<properties>
+  <properties>
   <sonar.organization>teslakarthi</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
+</project>
+
